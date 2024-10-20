@@ -13,14 +13,12 @@ int main()
         "A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
         "A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE",
         "A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
-        "A5,Ana,Freitas,aif28@wgu.edu,23,38,15,26,SOFTWARE"
+        "A5,Jane,Doe,jane.doe@gmail.com,23,38,15,26,SOFTWARE"
     };
     
     //F1
-    cout << "Scripting and Programming: Applications - C867" << endl;
-    cout << "Programming Language: C++" << endl;
-    cout << "Student ID: 012225342" << endl;
-    cout << "Name: Ana Ferraz de Freitas" << endl << endl << endl;
+    cout << "Scripting and Programming: Applications" << endl;
+    cout << "Programming Language: C++" << endl << endl << endl;
 
     //F2
     Roster classRoster;
